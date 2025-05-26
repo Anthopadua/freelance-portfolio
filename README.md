@@ -7,3 +7,4 @@ This repository features samples from my work as a freelance writer. It includes
 I'm also learning Python, which adds a technical edge to my creativity as I grow in both content and code.
 
 Feel free to explore!
+https://www.upwork.com/freelancers/~0152356bca1514883d
